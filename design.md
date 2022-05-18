@@ -25,7 +25,6 @@ g12[g2l"Gear 1:"c2"ABC",g4l"Gear 2:"c4"ABC"]g6l"Gear3:"c6"ABC"e6
 
 # Major TODOs
 
-Pararels
 MalteseCross
 
 # Equation
