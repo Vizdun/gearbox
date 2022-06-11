@@ -1,14 +1,4 @@
 ; an example demonstrating the usage of labels
 
 g1
-c100000"0123456789"l"Hello World"
-g1
-c10000"0123456789"
-g1
-c1000"0123456789"
-g1
-c100"0123456789"
-g1
-c10"0123456789"
-g1
-c1"0123456789"
+c100000"0123456789"l"labeled"
