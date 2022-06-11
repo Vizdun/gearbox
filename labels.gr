@@ -1,3 +1,5 @@
+; an example demonstrating the usage of labels
+
 g1
 c100000"0123456789"l"Hello World"
 g1

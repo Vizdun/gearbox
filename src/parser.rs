@@ -2,10 +2,8 @@ use crate::gears::{CGear, EGear, Gear, NGear};
 
 peg::parser! {
   pub grammar gearbox_parser() for str {
-    /// Whitespace
-    rule _ = [' ' | '\n' | '\t']*
+    rule _ = ([' ' | '\n' | '\t'] / ";" [c if c != '\n']* "\n")*
 
-    /// Delimiter
     rule del() = (_ "," _)
 
     rule num() -> u32
