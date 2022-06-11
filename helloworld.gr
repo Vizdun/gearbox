@@ -1,14 +1,14 @@
-g1c214{"A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","Y","X","Z"}
-g1c375{"A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","Y","X","Z"}
-g1c136{"A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","Y","X","Z"}
-g1c136{"A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","Y","X","Z"}
-g1c107{"A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","Y","X","Z"}
-g1c220{" ",".",",","\"","'","-","?",":","!",";"}
-g1c1320{" ",".",",","\"","'","-","?",":","!",";"}
-g1c68{"A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","Y","X","Z"}
-g1c107{"A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","Y","X","Z"}
-g1c88{"A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","Y","X","Z"}
-g1c136{"A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","Y","X","Z"}
-g1c500{"A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","Y","X","Z"}
-g1c73{" ",".",",","\"","'","-","?",":","!",";"}
+g1c214"ABCDEFGHIJKLMNOPQRSTUVWYXZ"
+g1c375"ABCDEFGHIJKLMNOPQRSTUVWYXZ"
+g1c136"ABCDEFGHIJKLMNOPQRSTUVWYXZ"
+g1c136"ABCDEFGHIJKLMNOPQRSTUVWYXZ"
+g1c107"ABCDEFGHIJKLMNOPQRSTUVWYXZ"
+g1c220" .,\"'-?:!;"
+g1c1320" .,\"'-?:!;"
+g1c68"ABCDEFGHIJKLMNOPQRSTUVWYXZ"
+g1c107"ABCDEFGHIJKLMNOPQRSTUVWYXZ"
+g1c88"ABCDEFGHIJKLMNOPQRSTUVWYXZ"
+g1c136"ABCDEFGHIJKLMNOPQRSTUVWYXZ"
+g1c500"ABCDEFGHIJKLMNOPQRSTUVWYXZ"
+g1c73" .,\"'-?:!;"
 g1e60
